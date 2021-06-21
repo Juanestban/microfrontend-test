@@ -1,0 +1,13 @@
+.buttonCats {
+  border: 1px solid transparent;
+  background-color: transparent;
+  padding: 5px 8px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.buttonCats:hover {
+  border: 1px solid gray;
+  box-shadow: none;
+  border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.banner {
+  background: #09f;
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+}
+
+.banner-title {
+  color: #282c34;
+}
+
+.home {
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.content {
+  margin: auto;
+  width: 70%;
+  padding: 10px 0px;
+  display: flex;
+  border-radius: 10px;
+}
+.cat {
+  display: inline-block;
+  width: 45%;
+}
+
+.dog {
+  display: inline-block;
+  width: 45%;
+}
